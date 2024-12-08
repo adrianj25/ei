@@ -1,0 +1,11 @@
+{
+    "name": "hamst/ei1_prw_valeria_adrian_7c_2024",
+    "autoload": {
+        "psr-4": {
+            "Hamst\\ei1_prw_valeria_adrian_7c_2024\\": "src/"
+        }
+    },
+    "require": {
+        "phpmailer/phpmailer": "^6.9"
+    }
+}
